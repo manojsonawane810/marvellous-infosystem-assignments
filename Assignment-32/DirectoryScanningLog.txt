@@ -1,0 +1,54 @@
+----------------------------------------
+Total 19 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32 
+
+Below is the list of deleted files :D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\Test1 - Copy (2).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\Test1 - Copy (3).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\Test1 - Copy.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\Test1.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\PrimaryTest\Test1 - Copy.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\PrimaryTest\Test1.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\PrimaryTest\Prime\PrimeFile.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\SecondaryTest\Test1 - Copy (2).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test1\SecondaryTest\Test1 - Copy (3).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Test1 - Copy (2).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Test1 - Copy (3).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Test1 - Copy.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Test1.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Tests\Test1 - Copy (2).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test2\Tests\Test1 - Copy (3).txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test3\TestA\ATest.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test3\TestA\New folder\Test.txt
+D:\Marvellous-Infosystems\Assignment-32\TestDir\Test3\TestB\ABc.txt
+Scan completed on : 24-07-2026 11:13:53 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32 
+
+Below is the list of deleted files :Scan completed on : 24-07-2026 11:14:07 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32 
+
+Below is the list of deleted files :Scan completed on : 24-07-2026 11:14:21 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32 
+
+Below is the list of deleted files :Scan completed on : 24-07-2026 11:14:35 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32\TestDir 
+
+Scan completed on : 24-07-2026 11:19:02 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32\TestDir 
+
+Scan completed on : 24-07-2026 11:19:16 PM
+----------------------------------------
+----------------------------------------
+Total 0 number of files are deleted from parent directory D:\Marvellous-Infosystems\Assignment-32\TestDir 
+
+Scan completed on : 24-07-2026 11:19:30 PM
+----------------------------------------
