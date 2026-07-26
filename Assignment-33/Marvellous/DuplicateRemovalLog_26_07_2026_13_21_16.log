@@ -1,0 +1,10 @@
+Welcome to the duplicate file removal automation... DuplicateFileRemoval.py 
+--------------------------------------------------
+Starting time of directory scanning  26-07-2026 01:21:2026 PM 
+Name of the directory scanned :  D:\Marvellous-Infosystems\Assignment-33\SourceDir 
+Total number of files scanned :  5 
+Total number of duplicate files found :  0 
+Total number of duplicate files deleted :  0 
+Completion time of directory scanning  26-07-2026 01:21:2026 PM 
+Automatic email notification with files statistics has been sent to the receiver  marvellousinfosystem@gmail.com 
+--------------------------------------------------
